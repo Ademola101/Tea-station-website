@@ -12,7 +12,7 @@
 
 ### Live Demo
 
-<!-- [Live Demo link](https://ademola101.github.io/School-directory/) -->
+[Live Demo link](https://ademola101.github.io/Tea-station-website/)
 
 ## Author
 
