@@ -3,3 +3,41 @@
   background-image: url(images/tea_pic.jpg);
   height: 50vh;
 }
+
+.content {
+  flex-grow: 1;
+  }
+
+.several-tea {
+  color: rgb(83, 189, 83);
+  margin-top: 5%;
+}
+
+.special-tea {
+  color: white;
+  line-height: 1.5;
+  letter-spacing: 0.6em;
+  font-size: 1.6em;
+  margin-top: 50%;
+  text-align: center;
+}
+
+.explore {
+  background-color:  rgb(83, 189, 83);
+  color: black;
+  padding: 2%;
+  width: fit-content;
+  font-weight: bold;
+  border: 1px solid rgb(83, 189, 83);
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 00%;
+}
+
+.line-grad {
+  background-color: green;
+  background-image: linear-gradient(to right, 
+  rgb(83, 189, 83), rgb(83, 189, 83) 15%, brown, rgb(83, 189, 83));
+  height: 5px;
+  width: auto;
+}
