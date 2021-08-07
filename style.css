@@ -15,6 +15,8 @@ body {
 .several-tea {
   color: rgb(83, 189, 83);
   margin-top: 5%;
+  font-family: 'Great Vibes', cursive;
+  letter-spacing: 0.2em;
 }
 
 .special-tea {
@@ -35,7 +37,6 @@ body {
   border: 1px solid rgb(83, 189, 83);
   margin-right: auto;
   margin-left: auto;
-  margin-top: 00%;
 }
 
 .line-grad {
@@ -75,4 +76,36 @@ body {
 .lorem {
   line-height: 1.6;
   text-align: center;
+}
+
+.about-img {
+  height: auto;
+  max-width: 80%;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-top: 15%;
+  border: rgb(83, 189, 83) 5px solid;
+  border-radius: 10px;
+}
+
+.about {
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-top: 15%;
+}
+
+.testation {
+  color: black;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.our {
+  color: rgb(83, 189, 83);
+  font-family: 'Great Vibes', cursive;
+  letter-spacing: 0.6em;
+}
+
+.margin-l {
+  margin-left: 10%;
 }
