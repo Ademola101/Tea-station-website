@@ -1,3 +1,7 @@
+body {
+  font-family:  Helvetica, Arial, sans-serif;
+}
+
 .header-section {
   display: flex;
   background-image: url(images/tea_pic.jpg);
@@ -40,4 +44,35 @@
   rgb(83, 189, 83), rgb(83, 189, 83) 15%, brown, rgb(83, 189, 83));
   height: 5px;
   width: auto;
+}
+
+.made {
+  background-color: aliceblue;
+}
+
+.mg-top {
+  margin-top: 50px;
+}
+
+.icon-sec {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.m-nige {
+  display: block;
+  font-weight: bold;
+  letter-spacing: 0.8em;
+  text-align: center;
+  color: rgb(83, 189, 83);
+}
+
+.lorem {
+  line-height: 1.6;
+  text-align: center;
 }
