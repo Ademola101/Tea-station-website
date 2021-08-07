@@ -5,7 +5,7 @@ body {
 .header-section {
   display: flex;
   background-image: url(images/tea_pic.jpg);
-  height: 50vh;
+  height: 55vh;
 }
 
 .content {
@@ -71,6 +71,7 @@ body {
   letter-spacing: 0.8em;
   text-align: center;
   color: rgb(83, 189, 83);
+  margin-top: 20%;
 }
 
 .lorem {
@@ -108,4 +109,46 @@ body {
 
 .margin-l {
   margin-left: 10%;
+}
+
+.main-black {
+  background-color: black;
+}
+
+.pro {
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+.mar-top {
+  margin-top: 50px;
+}
+
+.lorem-black {
+  line-height: 1.5;
+  color: white;
+  margin-top: 15px;
+}
+
+.explore-black {
+  background-color:  rgb(83, 189, 83);
+  color: black;
+  padding: 2%;
+  width: fit-content;
+  font-weight: bold;
+  border: 1px solid rgb(83, 189, 83);
+}
+
+.tea-product {
+  height: auto;
+  max-width: 100%;
+}
+
+.naira {
+  font-weight: bold;
+  letter-spacing: 0.8em;
+  color: rgb(83, 189, 83);\
+
 }
