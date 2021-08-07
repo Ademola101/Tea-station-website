@@ -1,0 +1,5 @@
+.header-section {
+  display: flex;
+  background-image: url(images/tea_pic.jpg);
+  height: 50vh;
+}
