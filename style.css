@@ -8,6 +8,10 @@ body {
   height: 55vh;
 }
 
+.ft-spacing {
+  letter-spacing: 0.6em;
+}
+
 .content {
   flex-grow: 1;
   }
