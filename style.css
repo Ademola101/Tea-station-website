@@ -233,3 +233,22 @@ body {
   margin-left: 10%;
   margin-right: 10%;
 }
+
+/* Media Query for large screen desktop */
+@media only screen and (min-width: 1024px) {
+  .special-tea{
+    margin-bottom: 0;
+    margin-top: 5%;
+  }
+
+  .explore {
+    margin-right: 0;
+    margin-left: 40%;
+    padding: 1%;
+    margin-top: 5%;
+  }
+
+  .m-nige {
+    margin-top: 5%;
+  }
+}
