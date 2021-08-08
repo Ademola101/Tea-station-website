@@ -252,6 +252,7 @@ body {
 .margin-add {
   margin-left: 10%;
   margin-right: 10%;
+  background-color: white;
 }
 
 /* Media Query for large screen desktop */
