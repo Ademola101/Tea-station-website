@@ -257,7 +257,7 @@ body {
 
 /* Media Query for large screen desktop */
 @media only screen and (min-width: 1024px) {
-  .special-tea{
+  .special-tea {
     margin-bottom: 0;
     margin-top: 5%;
   }
@@ -320,5 +320,9 @@ body {
     margin-right: 3%;
     height: 414px;
     background-color: rgb(83, 189, 83);
+  }
+
+  .margin-form {
+    margin-top: 50px;
   }
 }
