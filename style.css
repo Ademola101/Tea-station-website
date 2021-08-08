@@ -296,4 +296,28 @@ body {
   .inv {
     margin-top: 85px;
   }
+
+  .service-c {
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 28vw;
+    height: 414px;
+    background-color: rgb(83, 189, 83);
+  }
+
+  .service-d {
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 28vw;
+    height: 414px;
+    background-color: rgb(83, 189, 83);
+  }
+
+  .service-e {
+    width: 28vw;
+    margin-left: 1%;
+    margin-right: 1%;
+    height: 414px;
+    background-color: rgb(83, 189, 83);
+  }
 }
