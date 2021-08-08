@@ -149,6 +149,82 @@ body {
 .naira {
   font-weight: bold;
   letter-spacing: 0.8em;
-  color: rgb(83, 189, 83);\
+  color: rgb(83, 189, 83);
+}
 
+.service {
+  background-color: aliceblue;
+}
+
+.service-c {
+  border: 5px solid rgb(83, 189, 83);
+  margin-right: 10%;
+  margin-left: 10%;
+  height: 400px;
+  margin-bottom: 10%;
+  border-radius: 5px;
+}
+
+.service-d {
+  border: 5px solid rgb(83, 189, 83);
+  margin-right: 10%;
+  margin-left: 10%;
+  height: 335px;
+  margin-bottom: 10%;
+  border-radius: 5px;
+}
+
+.service-e {
+  border: 5px solid rgb(83, 189, 83);
+  margin-right: 10%;
+  margin-left: 10%;
+  height: 345px;
+  margin-bottom: 10%;
+  border-radius: 5px;
+}
+.back-g {
+  background-color: rgb(83, 189, 83);
+  height: 175px;
+}
+
+.recipe {
+  color: white;
+  letter-spacing: 0.5em;
+  font-weight: bold;
+  margin-left: 2%;
+  margin-right: 2%;
+  font-size: 1.1em;
+  text-align: center;
+}
+
+.read {
+  background-color: white;
+  color: rgb(83, 189, 83);
+  padding: 2%;
+  width: fit-content;
+  font-weight: bold;
+  border-radius: 5px;
+  box-shadow: whitesmoke;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rounded {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  color: yellow;
+}
+
+.address {
+  font-family: 'Cookie', cursive;
+  font-weight: bold;
+  letter-spacing: 0.65em;
+  color: rgb(83, 189, 83);
+  margin-top: 50px;
+}
+
+.olu {
+  font-size: 0.8em;
+  font-weight: bold;
 }
