@@ -330,3 +330,88 @@ body {
     margin-top: 50px;
   }
 }
+/* Tablet screen media query */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .special-tea {
+    margin-bottom: 0;
+    margin-top: 5%;
+  }
+
+  .explore {
+    margin-right: 0;
+    margin-left: 40%;
+    padding: 1%;
+    margin-top: 5%;
+  }
+
+  .m-nige {
+    margin-top: 5%;
+  }
+
+  .about-img {
+    margin: 5%;
+    max-width: 40%;
+  }
+
+  .about {
+    margin-top: 10%;
+    margin-left: 0;
+  }
+
+  .explore-e {
+    margin-left: 0;
+    border-radius: 3px;
+  }
+
+  .about-e {
+    margin-top: 0;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+
+  .inv {
+    margin-top: 85px;
+  }
+
+  .service-c {
+    margin-left: 3%;
+    margin-right: 3%;
+    width: 20vw;
+    height: 414px;
+    background-color: rgb(83, 189, 83);
+  }
+
+  .service-d {
+    margin-left: 3%;
+    margin-right: 3%;
+    width: 20vw;
+    height: 414px;
+    background-color: rgb(83, 189, 83);
+  }
+
+  .service-e {
+    width: 20vw;
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 414px;
+    background-color: rgb(83, 189, 83);
+  }
+
+  .margin-form {
+    margin-top: 50px;
+  }
+
+  .icon-sec {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 40vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .wrap {
+    flex-wrap: wrap;
+  }
+}
