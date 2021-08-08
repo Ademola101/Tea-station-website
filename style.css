@@ -375,7 +375,7 @@ body {
   .service-c {
     margin-left: 3%;
     margin-right: 3%;
-    width: 20vw;
+    width: 40vw;
     height: 414px;
     background-color: rgb(83, 189, 83);
   }
@@ -383,13 +383,17 @@ body {
   .service-d {
     margin-left: 3%;
     margin-right: 3%;
-    width: 20vw;
+    width: 40vw;
     height: 414px;
     background-color: rgb(83, 189, 83);
   }
 
+  .just-start {
+    justify-content:flex-start !important;
+  }
+
   .service-e {
-    width: 20vw;
+    width: 40vw;
     margin-left: 3%;
     margin-right: 3%;
     height: 414px;
