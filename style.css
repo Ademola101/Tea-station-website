@@ -228,3 +228,8 @@ body {
   font-size: 0.8em;
   font-weight: bold;
 }
+
+.margin-add {
+  margin-left: 10%;
+  margin-right: 10%;
+}
