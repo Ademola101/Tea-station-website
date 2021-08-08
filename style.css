@@ -37,6 +37,7 @@ body {
   border: 1px solid rgb(83, 189, 83);
   margin-right: auto;
   margin-left: auto;
+  border-radius: 3px;
 }
 
 .line-grad {
@@ -49,6 +50,18 @@ body {
 
 .made {
   background-color: aliceblue;
+}
+
+.explore-e {
+  background-color:  rgb(83, 189, 83);
+  color: black;
+  padding: 2%;
+  width: fit-content;
+  font-weight: bold;
+  border: 1px solid rgb(83, 189, 83);
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 3px;
 }
 
 .mg-top {
@@ -77,6 +90,13 @@ body {
 .lorem {
   line-height: 1.6;
   text-align: center;
+}
+
+
+.about-e {
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-top: 15%;
 }
 
 .about-img {
@@ -250,5 +270,30 @@ body {
 
   .m-nige {
     margin-top: 5%;
+  }
+
+  .about-img {
+    margin: 5%;
+    max-width: 40%;
+  }
+
+  .about {
+    margin-top: 10%;
+    margin-left: 0;
+  }
+
+  .explore-e {
+    margin-left: 0;
+    border-radius: 3px;
+  }
+
+  .about-e {
+    margin-top: 0;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+
+  .inv {
+    margin-top: 85px;
   }
 }
