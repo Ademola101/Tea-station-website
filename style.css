@@ -66,6 +66,7 @@ body {
   margin-right: auto;
   margin-left: auto;
   border-radius: 3px;
+  margin-bottom: 2%;
 }
 
 .mg-top {
@@ -100,7 +101,7 @@ body {
 .about-e {
   margin-right: 10%;
   margin-left: 10%;
-  margin-top: 15%;
+  padding-top: 10%;
 }
 
 .about-img {
