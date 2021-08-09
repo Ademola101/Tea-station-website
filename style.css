@@ -28,7 +28,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.6em;
   font-size: 1.6em;
-  margin-top: 50%;
+  margin-top: 25%;
   text-align: center;
 }
 
@@ -40,7 +40,7 @@ body {
   font-weight: bold;
   border: 1px solid rgb(83, 189, 83);
   margin-right: auto;
-  margin-left: auto;
+  margin-left: 30%;
   border-radius: 3px;
 }
 
