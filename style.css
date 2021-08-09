@@ -392,6 +392,10 @@ body {
     justify-content:flex-start !important;
   }
 
+  .flex-col {
+    flex-direction: column;
+  }
+
   .service-e {
     width: 40vw;
     margin-left: 3%;
