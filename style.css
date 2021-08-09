@@ -32,6 +32,15 @@ body {
   text-align: center;
 }
 
+.icon-p {
+  width: 25px;
+  border-radius: 33%;
+  align-content: center;
+  position: relative;
+  bottom: 8px;
+  left: 40%;
+}
+
 .explore {
   background-color: rgb(83, 189, 83);
   color: black;
@@ -265,6 +274,10 @@ body {
     margin-top: 5%;
   }
 
+  .tea-product {
+    height: 200px;
+  }
+
   .explore {
     margin-right: 0;
     margin-left: 40%;
@@ -436,5 +449,6 @@ body {
 
   .tea-product {
     width: 45vw;
+    height: 200px;
   }
 }
