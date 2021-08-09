@@ -2,7 +2,14 @@
 
 > HTML & CSS capstone project: Tea station
 
-<!-- ![screenshot](/images/screenshot.png) -->
+* **Main page**
+![screenshot](/images/main.png)
+
+* **Product page**
+![screenshot](/images/product.png)
+
+* **Service page**
+![screenshot](/images/service.png)
 
 ## Built With
 
