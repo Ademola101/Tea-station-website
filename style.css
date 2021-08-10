@@ -4,7 +4,7 @@ body {
 
 .header-section {
   display: flex;
-  background-image: url(images/tea_pic.jpg);
+  background: linear-gradient(to right, rgba(68, 64, 64, 0.25), black), url(images/tea_pic.jpg);
   height: 55vh;
 }
 
@@ -21,6 +21,7 @@ body {
   margin-top: 5%;
   font-family: 'Great Vibes', cursive;
   letter-spacing: 0.2em;
+  font-size: 1.2em;
 }
 
 .special-tea {
@@ -257,6 +258,7 @@ body {
   letter-spacing: 0.65em;
   color: rgb(83, 189, 83);
   margin-top: 50px;
+  font-size: 1.1em;
 }
 
 .olu {
@@ -350,7 +352,7 @@ body {
 @media (min-width: 768px) and (max-width: 1023px) {
   .special-tea {
     margin-bottom: 0;
-    margin-top: 20%;
+    margin-top: 50px;
   }
 
   .several-tea {
