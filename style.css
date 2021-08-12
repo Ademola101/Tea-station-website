@@ -364,7 +364,7 @@ body {
     margin-right: 0;
     margin-left: 40%;
     padding: 1%;
-    margin-top: 5%;
+    margin-top: 20px;
   }
 
   .m-nige {
@@ -457,4 +457,11 @@ body {
     width: 45vw;
     height: 200px;
   }
+}
+
+@media  (max-width: 374px) {
+  .special-tea {
+    margin-top: 5%;
+  }
+  
 }
