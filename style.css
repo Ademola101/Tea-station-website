@@ -459,8 +459,18 @@ body {
   }
 }
 
-@media (max-width: 374px) {
+@media (max-width: 486px) {
   .special-tea {
     margin-top: 5%;
+    margin-left: 30px;
+  }
+
+  .several-tea {
+    margin-left: 50px;
+    text-align: center;
+  }
+
+  .explore {
+    margin-left: 35%;
   }
 }
