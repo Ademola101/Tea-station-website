@@ -2,7 +2,14 @@
 
 > HTML & CSS capstone project: Tea station
 
-<!-- ![screenshot](/images/screenshot.png) -->
+* **Main page**
+![screenshot](/images/main.png)
+
+* **Product page**
+![screenshot](/images/product.png)
+
+* **Service page**
+![screenshot](/images/service.png)
 
 ## Built With
 
@@ -12,7 +19,7 @@
 
 ### Live Demo
 
-<!-- [Live Demo link](https://ademola101.github.io/School-directory/) -->
+[Live Demo link](https://ademola101.github.io/Tea-station-website/)
 
 ## Author
 
