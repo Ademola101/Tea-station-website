@@ -459,9 +459,8 @@ body {
   }
 }
 
-@media  (max-width: 374px) {
+@media (max-width: 374px) {
   .special-tea {
     margin-top: 5%;
   }
-  
 }
